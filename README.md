@@ -1,4 +1,4 @@
-###  :man_technologist:  [WangNingkai](https://wangningkai.github.io)
+###  :man_technologist:  [X3rez](https://github.com/X3rez)
 
 👋 Hi, I'm Christhopher ,a passionate self-taught developer from dominican republic 🚀. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,4 +27,4 @@
 
 
 ---
-⭐️ From [WangNingkai](https://github.com/WangNingkai)
+⭐️ From [X3rez](https://github.com/X3rez)
