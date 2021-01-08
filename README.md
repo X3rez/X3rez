@@ -5,7 +5,7 @@
 
 ### About
 
--  **Learning :** graphql :fire:    
+-  **Learning :** Graphql and Typescript :fire:    
 -  **Hobbies :** Basketball :basketball: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 
